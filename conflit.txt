@@ -1,4 +1,8 @@
 La première ligne
 La deuxième ligne
 La troisième ligne
+<<<<<<< HEAD
 Modification dans branche1
+=======
+Modification dans branche2
+>>>>>>> branche2
